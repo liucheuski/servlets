@@ -1,9 +1,15 @@
 package liucheuski.siarhei.servlets.model;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import java.io.Serializable;
 
 @Data
-public class User {
+@AllArgsConstructor
+@NoArgsConstructor
+public class User implements Serializable {
     private int id;
     private String login;
     private byte[] passw;

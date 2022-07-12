@@ -27,7 +27,7 @@
           <element id="library" level="project" name="Maven: org.webjars:popper.js:2.5.4" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.23" />
           <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
-          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.11" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.0" />
           <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.14.1" />
           <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.14.1" />
         </element>
